@@ -1,6 +1,7 @@
 # Pouya Jabbarisani
 ### JavaScript Developer | Software Engineer
 Currently working @ ZELP ltd - London, UK
+
 Living in Istanbul
 
 Latest open source projects (⭐️ them if you like!):
