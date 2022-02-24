@@ -13,7 +13,7 @@ Latest open source projects (⭐️ them if you like!):
 
 
 
-[Twitter](https://twitter.com/PouyaJabbari) | [Linkedin](https://www.linkedin.com/in/pouyajabbarisani/) | [Instagram](https://www.instagram.com/pouyajabbarisani/) | [website](http://pouyajabbarisani.com/)
+[Twitter](https://twitter.com/DeveloperPouya) | [Linkedin](https://www.linkedin.com/in/pouyajabbarisani/) | [Instagram](https://www.instagram.com/pouyajabbarisani/) | [website](http://pouyajabbarisani.com/)
 
 [Send me a mail](mailto:pouyajabbarisani@gmail.com)
 
