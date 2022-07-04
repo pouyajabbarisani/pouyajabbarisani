@@ -17,7 +17,3 @@ Latest open source projects (⭐️ them if you like!):
 
 [Send me a mail](mailto:pouyajabbarisani@gmail.com)
 
-
- ![](https://github-readme-stats.vercel.app/api?username=pouyajabbarisani&show_icons=true&theme=github_dark)
-
- 
