@@ -1,6 +1,6 @@
 # Pouya Jabbarisani
 ### JavaScript Developer | Software Engineer
-Front End Developer @ ZELP ltd 
+Senior Front End Developer @ ZELP ltd 
 
 🇬🇧 London, United Kingdom
 
