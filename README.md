@@ -4,6 +4,8 @@ Senior Front End Developer @ ZELP ltd
 
 🇬🇧 London, United Kingdom
 
+My Tech stack and Skills: JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Nest.js, GraphQL, Apollo, HTML5, CSS3, SCSS, Tailwind
+
 Latest open source projects (⭐️ them if you like!):
 
  - [**react-before-after**](https://github.com/pouyajabbarisani/react-before-after) (an npm package for before after image comparison in react)
